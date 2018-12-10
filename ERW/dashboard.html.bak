@@ -97,7 +97,7 @@
 					<input type="text" name="id" class="form-control" placeholder="Ticket ID"/>
 					</br>
 					<div class="form-group">
-						<input type="submit" value="Search" class="btn btn-primary" onclick="action=ticket_lookup.php;"/>
+						<input type="submit" value="Search" class="btn btn-primary" onclick="window.location.href='window.location.href='ticket_lookup.php'';"/>
 					</div>
 
 

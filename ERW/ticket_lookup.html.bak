@@ -1,0 +1,8 @@
+
+
+	<form action="ticket_lookup.php", method="get">
+	Ticket ID: <input type="text" name="id" />
+	    <input type="submit" name="CAccount" value="Search" onclick="window.location.href='ticket_lookup.php';" />
+	</form>
+
+
